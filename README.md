@@ -1,9 +1,4 @@
-# Code examples and good practicies
+# Code examples and good practicies for Typescript
 
-Good and useful practicies and pieces of code.
+Good and useful practicies and pieces of code for Typescript.
 Feel free to go through branches pick one and use in your project.
-
-<!-- ## Technologies: -->
-
-<!-- - [React Native](https://github.com/AlbertArakelyan/code-examples-and-good-practices/tree/react-native) -->
-<!-- - [Typescript](https://github.com/AlbertArakelyan/code-examples-and-good-practices/tree/typescript) -->
